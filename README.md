@@ -15,7 +15,7 @@
 ## 0. Getting the Code and Data <a name="download"></a>
 To use these labs, you will need to download the code and the data. These are available for free online in a GitHub repository with steps below: 
 
-- Go to this page on a web browser: https://github.com/UM-CSS/CSSLabs-NLP
+- Go to this page on a web browser: [https://github.com/UM-CMPLXSYS251/CSSLabs-NLP-WN26](https://github.com/UM-CMPLXSYS251/CSSLabs-NLP-WN26)
 - If you are familiar with `git`, we recommend you clone the repo.
 - If you are unfamiliar with `git`, the easiest option is to follow these steps:
     - Press the ![Clone or download](images/clone_or_download.png "Clone or download") button on the right side of each repository.
